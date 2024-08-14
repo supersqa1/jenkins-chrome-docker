@@ -1,0 +1,4 @@
+Notes:
+
+* Installing latest version worked but running selenium fail
+* Installing ch for testin by doing wget ...zip worked but selenium fail
